@@ -12,17 +12,16 @@
     </b-jumbotron>
     <h3>Side Nav Buttons</h3>
     <div id="mySidenav" class="sidenav">
-      <a href="#overview" id="overview">Overview</a>
-      <a href="#domains" id="domains">Domains</a>
-      <a href="#themes" id="themes">Themes</a>
-      <a href="#projects" id="projects">Projects</a>
+      <a href="#" id="overview">Overview</a>
+      <a href="#" id="domains">Domains</a>
+      <a href="#" id="themes">Themes</a>
+      <a href="#" id="projects">Projects</a>
     </div>
     <div>
       <h4>Content</h4>
       <div>
-        <div id="overview"><h4>Overview</h4></div>
-          <p>
-            Angola is home to a population of 31,825,295[1] people, 
+        <div><h4>Overview</h4></div>
+          <p>Angola is home to a population of 31,825,295[1] people, 
             including 50.5%[2] women and 46.6%[3] children under age 15. 
             The population is mostly urban, with 66.2%[4] of people living 
             in urban areas. Portuguese is the official language, but Angolans 
@@ -42,8 +41,7 @@
             and broad protections against discrimination on the basis of sexual 
             orientation instated.[8]
           </p>
-          <p>
-            Angola is home to a population of 31,825,295[1] people, 
+          <p>Angola is home to a population of 31,825,295[1] people, 
             including 50.5%[2] women and 46.6%[3] children under age 15. 
             The population is mostly urban, with 66.2%[4] of people living 
             in urban areas. Portuguese is the official language, but Angolans 
@@ -63,8 +61,7 @@
             and broad protections against discrimination on the basis of sexual 
             orientation instated.[8]
           </p>
-          <p>
-            Angola is home to a population of 31,825,295[1] people, 
+          <p>Angola is home to a population of 31,825,295[1] people, 
             including 50.5%[2] women and 46.6%[3] children under age 15. 
             The population is mostly urban, with 66.2%[4] of people living 
             in urban areas. Portuguese is the official language, but Angolans 
@@ -84,9 +81,8 @@
             and broad protections against discrimination on the basis of sexual 
             orientation instated.[8]
           </p>
-        <div id="domains"><h4>Domains</h4></div>
-          <p>
-            Angola is home to a population of 31,825,295[1] people, 
+        <div><h4>Domains</h4></div>
+        <p>Angola is home to a population of 31,825,295[1] people, 
             including 50.5%[2] women and 46.6%[3] children under age 15. 
             The population is mostly urban, with 66.2%[4] of people living 
             in urban areas. Portuguese is the official language, but Angolans 
@@ -106,8 +102,7 @@
             and broad protections against discrimination on the basis of sexual 
             orientation instated.[8]
           </p>
-          <p>
-            Angola is home to a population of 31,825,295[1] people, 
+          <p>Angola is home to a population of 31,825,295[1] people, 
             including 50.5%[2] women and 46.6%[3] children under age 15. 
             The population is mostly urban, with 66.2%[4] of people living 
             in urban areas. Portuguese is the official language, but Angolans 
@@ -127,9 +122,8 @@
             and broad protections against discrimination on the basis of sexual 
             orientation instated.[8]
           </p>
-        <div id="themes"><h4>Themes</h4></div>
-          <p>
-            Angola is home to a population of 31,825,295[1] people, 
+        <div><h4>Themes</h4></div>
+          <p>Angola is home to a population of 31,825,295[1] people, 
             including 50.5%[2] women and 46.6%[3] children under age 15. 
             The population is mostly urban, with 66.2%[4] of people living 
             in urban areas. Portuguese is the official language, but Angolans 
@@ -149,8 +143,7 @@
             and broad protections against discrimination on the basis of sexual 
             orientation instated.[8]
           </p>
-          <p>
-            Angola is home to a population of 31,825,295[1] people, 
+          <p>Angola is home to a population of 31,825,295[1] people, 
             including 50.5%[2] women and 46.6%[3] children under age 15. 
             The population is mostly urban, with 66.2%[4] of people living 
             in urban areas. Portuguese is the official language, but Angolans 
@@ -170,9 +163,8 @@
             and broad protections against discrimination on the basis of sexual 
             orientation instated.[8]
           </p>
-        <div id="projects"><h4>Projects</h4></div>
-          <p>
-            Angola is home to a population of 31,825,295[1] people, 
+        <div><h4>Projects</h4></div>
+          <p>Angola is home to a population of 31,825,295[1] people, 
             including 50.5%[2] women and 46.6%[3] children under age 15. 
             The population is mostly urban, with 66.2%[4] of people living 
             in urban areas. Portuguese is the official language, but Angolans 
@@ -192,8 +184,7 @@
             and broad protections against discrimination on the basis of sexual 
             orientation instated.[8]
           </p>
-          <p>
-            Angola is home to a population of 31,825,295[1] people, 
+          <p>Angola is home to a population of 31,825,295[1] people, 
             including 50.5%[2] women and 46.6%[3] children under age 15. 
             The population is mostly urban, with 66.2%[4] of people living 
             in urban areas. Portuguese is the official language, but Angolans 

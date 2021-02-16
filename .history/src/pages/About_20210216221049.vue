@@ -12,10 +12,10 @@
     </b-jumbotron>
     <h3>Side Nav Buttons</h3>
     <div id="mySidenav" class="sidenav">
-      <a href="#overview" id="overview">Overview</a>
-      <a href="#domains" id="domains">Domains</a>
-      <a href="#themes" id="themes">Themes</a>
-      <a href="#projects" id="projects">Projects</a>
+      <a href="#" id="overview">Overview</a>
+      <a href="#" id="domains">Domains</a>
+      <a href="#" id="themes">Themes</a>
+      <a href="#" id="projects">Projects</a>
     </div>
     <div>
       <h4>Content</h4>
